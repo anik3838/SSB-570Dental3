@@ -1,0 +1,829 @@
+/* @media (max-width:1900px){
+    .banner {
+        height: 58vh;
+       
+    }
+    .doctor {
+        min-height: 59vh;
+    }
+    .our .body {
+        height: 332px;
+    }
+    footer {
+        height: 50vh;
+    }
+
+
+
+
+
+
+
+} */
+/* @media (max-width:1399px){
+    .banner {
+        height: 59vh;
+    }
+    footer {
+        height: 55vh;
+    }
+} */
+@media (max-width:1199px){
+    .banner {
+        height: 60vh;
+    }
+    .wel {
+        margin-left: 12%;
+    }
+    .any {
+        margin-left: 12%;
+    }
+    .our .body {
+        height: 261px;
+       
+    }
+    .team {
+        height: 921px;
+    }
+    .box {
+        width: 32%;
+      height: 230px; 
+    }
+    .meet h2 {
+        margin-top: 65px;
+    }
+   
+    .banner2 {
+    
+        height: 70vh;
+      
+    }
+    footer {
+        min-height: 70vh;
+    }
+    .on img {
+        width: 80%;
+    }
+    .on h2 {
+        font-size: 30px;
+    }
+    .on2 h2 {
+        font-size: 30px;
+    }
+    .on p {
+        font-size: 14px;
+    }
+    .on2 p {
+        font-size: 15px;
+    }
+    .lo span {
+        font-size: 14px;
+    }
+    .lo2 p {
+        font-size: 14px;
+        margin-top: -6px;
+    }
+    .ic2 img {
+        width: 70px;
+    }
+    input {
+        width: 258px;
+    }
+    form .up {
+        font-size: 13px;
+        margin-top: 12px;
+        display: inline-block;
+        margin-left: 0;
+    }
+   .us{
+    margin-left: -10px;
+   }
+    .us h6 {
+        color: white;
+        margin-right: -116px;
+        margin-top: 40px;
+        font-size: 21px;
+        margin-left: 10px;
+    }
+    .us i {
+        margin-top: 82px;
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+@media (max-width:991px) {
+    img.h-logo {
+        width: 200px;
+    }
+    .icon-box {
+        justify-content: space-between;
+        margin-left: 150px;
+
+    }
+    .icon {
+        display: flex;
+        align-items: center;
+        margin-left: -70px;
+    }
+   
+    .icon.get {
+        margin-right: -52px;
+    }
+    .icon i {
+        font-size: 22px;
+        margin-right: 10px;
+        margin-left: 20px;
+    }
+  
+    .icon a {  
+        font-size: 13px;
+    }
+    .icon h4 {
+        font-size: 14px;
+    }
+    
+    main ul li {
+        text-align: center;
+    }
+    .app {
+        color: white;
+        clip-path: polygon(10% 0, 100% 0%, 90% 99%, 0% 100%);
+        background: #f69165;
+        padding: 10px 20px;
+        text-align: center;
+    }
+    main ul li:hover::before{
+        display: none;
+    }
+    .banner {
+    height:60vh;
+}
+    .index{
+        text-align: center;
+    }
+    .banner-carousel .owl-next span {
+
+        margin-left: -36px;
+    }
+    .index2{
+        text-align: center;
+    }
+    .banner .index h4{
+        margin-top: 50px;
+        font-size: 20px;
+    }
+   
+    .banner .index2 h4 {
+        margin-top: 50px;
+        font-size: 20px;
+    }
+    .banner .index2 h3 {
+        font-size: 35px;
+    }
+    .owl-dots span {
+        transform: translateY( 32px);
+    }
+    
+    .doctor {
+        height: 141vh;
+    }
+    .doctor img{
+        width: 390px;
+    }
+    
+   
+    .den .icon i{
+        font-size: 40px;
+        margin-left: 32%;
+    }
+    .den h3 {
+        font-size: 16px;
+    }
+    .den p {
+        font-size: 14px;
+    }
+    .den {
+        display: block;
+    }
+
+    .meet h2 {
+       font-size: 20px;
+        margin-top: 50px;
+    }
+    .meet p {
+       font-size: 15px;
+        
+    }
+    .our .body {
+        height: 59vh;
+    }
+    .nobody{
+        display: flex;
+        justify-content: center;
+    }
+    .our .body img {
+        width: 100%;
+    }
+    .team {
+        height: 155vh;
+    }
+    .our .body {
+        height: 45vh;
+    }
+    .con i {
+        height: 31px;
+        width: 31px;
+        line-height: 30px;
+        font-size: 14px;
+    }
+    .service {
+        min-height: 202vh;
+    }
+    .box {
+        width: 46%;
+        text-align: center;
+        min-height: 17vh;
+        margin-left: 10px;
+    }
+    .box span {
+        font-size: 18px;
+
+    }
+   
+    .box p {
+        font-size: 14px;
+    }
+    .box b {
+        
+        font-size: 15px;
+    }
+    .plan {
+        height: 152vh;
+    }
+    .any2 {
+        width: 100%;
+        margin-top: 50px;
+        margin-left: 15%;
+        height: 104vh;
+    }
+    .any2 .fe h5 {
+        font-size: 22px;
+       
+    }
+    .fe p {
+        font-size: 14px;
+    }
+    .any2 .per span {
+        font-size: 40px;
+    }
+    .any2 .per p {
+        font-size: 15px;
+    }
+    .lorem p {
+        font-size: 14px;
+        padding: 0;
+    }
+    .lorem a {
+        padding: 8px 25px;
+        font-size: 14px;
+
+    }
+    .banner2 {
+        height: 104vh;
+    }
+    footer {
+        min-height: 102vh;
+    }
+    .on img {
+        width: 70%;
+    }
+    .on h2 {
+        font-size: 26px;
+    }
+    .on2 h2 {
+        font-size: 26px;
+    }
+    .on p {
+        font-size: 13px;
+    }
+    .on2 p {
+        font-size: 14px;
+    }
+    .lo span {
+        font-size: 13px;
+    }
+    .lo2 p {
+        font-size: 13px;
+        margin-top: -6px;
+    }
+    .ic2 img {
+        width: 63px;
+    }
+    input {
+        width: 218px;
+    }
+    form .up {
+        font-size: 13px;
+        margin-top: 12px;
+        display: inline-block;
+        margin-left: 0;
+    }
+   .us{
+    margin-left: -10px;
+   }
+    .us h6 {
+        color: white;
+        margin-right: -116px;
+        margin-top: 40px;
+        font-size: 21px;
+        margin-left: 10px;
+    }
+    .us i {
+        margin-top: 82px;
+    }
+    
+
+
+
+}
+
+
+
+@media (max-width:767px) {
+    img.h-logo {
+        width: 25%;
+    }
+    .icon-box {
+        justify-content: space-between;
+        margin-left: 205px;
+        margin-top: -27px;
+    }
+    .icon {
+        display: flex;
+        align-items: center;
+        margin-left: -70px;
+    }
+   
+    .icon.get {
+        margin-right: -52px;
+    }
+    .icon i {
+        color: #f69165;
+        font-size: 12px;
+        margin-right: 10px;
+        margin-left: 20px;
+    }
+  
+    .icon a {  
+        font-size: 11px;
+    }
+    .icon h4 {
+        font-size: 12px;
+    }
+    
+    main ul li {
+        text-align: center;
+    }
+    .app {
+        color: white;
+        clip-path: polygon(10% 0, 100% 0%, 90% 99%, 0% 100%);
+        background: #f69165;
+        padding: 10px 20px;
+        text-align: center;
+    }
+    main ul li:hover::before{
+        display: none;
+    }
+    .banner {
+        height: 115vh;
+    }
+    .index{
+        text-align: center;
+    }
+    .index2{
+        text-align: center;
+    }
+    .banner .index h4{
+        margin-top: 50px;
+        font-size: 20px;
+    }
+   
+    .banner .index2 h4 {
+        margin-top: 50px;
+        font-size: 20px;
+    }
+    .banner .index2 h3 {
+        font-size: 35px;
+    }
+    .banner-carousel .owl-dots span {
+        transform: translateY( 32px);
+    }
+    .doctor img {
+        width: 70%;
+        margin: 0;
+    }
+    .doctor {
+        height: 251vh;
+        text-align: center;
+    }
+    .den h3 {
+       
+        font-size: 17px;
+    }
+    .white{
+        display: block;
+    }
+    .doctor .wel p {
+        font-size: 13px;
+    }
+    .doctor .wel h2 {
+        font-size: 19px;
+    }
+    .den .icon i{
+        font-size: 45px;
+        margin-left: 52%;
+    }
+    .den h3 {
+        font-size: 16px;
+    }
+    .den p {
+        font-size: 14px;
+    }
+    .den {
+        display: block;
+        width: 100%;
+    }
+    .meet h2 {
+       font-size: 20px;
+        margin-top: 50px;
+    }
+    .meet p {
+       font-size: 15px;
+        
+    }
+    .nobody{
+        display: flex;
+        justify-content: center;
+    }
+    .our .body img {
+        width: 100%;
+    }
+    .our {
+        width: 60%;
+    }
+    .team {
+        height: 455vh;
+    }
+    .our .body {
+        height: 60vh;
+    }
+    .con i {
+        height: 31px;
+        width: 31px;
+        line-height: 30px;
+        font-size: 14px;
+    }
+    .service {
+        min-height: 346vh;
+    }
+    .box {
+        width: 80%;
+        text-align: center;
+        min-height: 26vh;
+    }
+    .box span {
+        font-size: 18px;
+
+    }
+   
+    .box p {
+        font-size: 14px;
+    }
+    .box b {
+        
+        font-size: 15px;
+    }
+    .plan {
+        height: 409vh;
+        background: #f9f9f9;
+    }
+    .any2 {
+        width: 75%;
+        margin-top: 50px;
+        margin-left: 15%;
+        height: 108vh;
+    }
+    .any2 .fe h5 {
+        font-size: 22px;
+       
+    }
+    .fe p {
+        font-size: 14px;
+    }
+    .any2 .per span {
+        font-size: 40px;
+    }
+    .any2 .per p {
+        font-size: 15px;
+    }
+    .lorem p {
+        font-size: 14px;
+        padding: 0;
+    }
+    .lorem a {
+        padding: 8px 25px;
+        font-size: 14px;
+
+    }
+    .banner2 {
+        height: 110vh;
+    }
+    .brand-carousel .owl-nav .owl-next{
+        display: none;
+    }
+    .brand-carousel .owl-nav .owl-prev{
+        display: none;
+    }
+    input {
+        width: 56%;
+        height: 34px;
+        
+    }
+    form .up {
+        padding: 8px 12px;
+
+        font-size: 14px;
+      
+    }
+    footer {
+        min-height: 212vh;
+    }
+    .flo {
+        margin-bottom: 30px;
+    }
+    .us i {
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+        font-size: 14px;
+    }
+    .us h6 {
+
+       font-size: 15px;
+        margin-top: 35px;
+    }
+    .on2 h2 {
+        padding: 30px 0 15px;
+        color: white;
+    }
+    .on2 p {
+        margin-top: 10px;
+    }
+    .last {
+        height: 70px;
+    }
+
+
+}
+
+
+
+@media(max-width:575px){
+    img.h-logo {
+        width: 40%;
+    }
+    a.nav-link {
+        color: white;
+        margin-top: -15px;
+        text-align: 13px;
+    }
+   
+    .icon  {
+        
+       display: none; 
+    }
+    main ul li {
+    
+        text-align: center;
+    }
+    main ul li:hover::before{
+        display: none;
+    }
+    .app {
+        color: white;
+        clip-path:none;
+        background: #f69165;
+        padding: 10px 20px;
+        text-align: center;
+    
+    }
+    .banner-carousel.owl-carousel .owl-item img {
+        display: none  !important;
+        
+    }
+    .banner {
+        height: 55vh;
+    }
+    .index{
+        text-align: center;
+    }
+    .index2{
+        text-align: center;
+    }
+    .banner .index h4{
+        margin-top: 50px;
+        font-size: 20px;
+    }
+    .banner .index h3 {
+
+    }
+    .banner .index2 h4 {
+        margin-top: 50px;
+        font-size: 20px;
+    }
+    .banner .index2 h3 {
+        font-size: 35px;
+    }
+    .banner-carousel.owl-dots span {
+        transform: translateY( 32px);
+    }
+    .doctor img {
+        width: 70%;
+        margin: 0;
+    }
+    .doctor {
+        height: 190vh;
+        text-align: center;
+    }
+    .den h3 {
+       
+        font-size: 17px;
+    }
+    .white{
+        display: block;
+    }
+    .doctor .wel p {
+        font-size: 13px;
+    }
+    .doctor .wel h2 {
+        font-size: 19px;
+    }
+    .den h3 {
+        font-size: 16px;
+    }
+    .den p {
+        font-size: 14px;
+    }
+    .den {
+        display: block;
+        width: 100%;
+    }
+    .meet h2 {
+       font-size: 20px;
+        margin-top: 50px;
+    }
+    .meet p {
+       font-size: 15px;
+        
+    }
+    .nobody{
+        display: flex;
+        justify-content: center;
+    }
+    .our .body img {
+        width: 100%;
+    }
+    .our {
+        width: 70%;
+    }
+    .team {
+        height: 446vh;
+    }
+    .our .body {
+        height: 55vh;
+    }
+    .con i {
+        height: 31px;
+        width: 31px;
+        line-height: 30px;
+        font-size: 14px;
+    }
+    .service {
+        min-height: 347vh;
+    }
+    .box {
+        width: 80%;
+        text-align: center;
+        min-height: 40vh;
+    }
+    .box span {
+        font-size: 18px;
+
+    }
+   
+    .box p {
+        font-size: 14px;
+    }
+    .box b {
+        
+        font-size: 15px;
+    }
+    .plan {
+        height: 380vh;
+        background: #f9f9f9;
+       
+    }
+    .any2 {
+        width: 75%;
+        margin-top: 50px;
+        margin-left: 15%;
+        height: 100vh;
+    }
+    .any2 .fe h5 {
+        font-size: 22px;
+       
+    }
+    .fe p {
+        font-size: 14px;
+    }
+    .any2 .per span {
+        font-size: 40px;
+    }
+    .any2 .per p {
+        font-size: 15px;
+    }
+    .lorem p {
+        font-size: 14px;
+        padding: 0;
+    }
+    .lorem a {
+        padding: 8px 25px;
+        font-size: 14px;
+
+    }
+    .banner2 {
+        height: 106vh;
+    }
+    .brand-carousel .owl-nav .owl-next{
+        display: none;
+    }
+    .brand-carousel .owl-nav .owl-prev{
+        display: none;
+    }
+    footer {
+        min-height: 212vh;
+    }
+    input {
+        width: 56%;
+        height: 34px;
+        
+    }
+    form .up {
+        padding: 8px 12px;
+
+        font-size: 14px;
+      
+    }
+    .flo {
+        margin-bottom: 30px;
+    }
+    .us i {
+        height: 30px;
+        width: 30px;
+        line-height: 30px;
+        font-size: 14px;
+    }
+    .us h6 {
+
+       font-size: 15px;
+        margin-top: 35px;
+    }
+    .on2 h2 {
+        padding: 30px 0 15px;
+        color: white;
+    }
+    .on2 p {
+        margin-top: 10px;
+    }
+    .last {
+        height: 70px;
+    }
+     
+}
+
+
+
